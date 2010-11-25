@@ -1,4 +1,5 @@
 cache/*
 log/*
 config/databases.yml
+lib/vendor/symfony/*
 *.swp
